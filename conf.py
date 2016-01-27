@@ -56,8 +56,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Testproject'
-copyright = '2016, Linus Oestberg'
-author = 'Linus Oestberg'
+copyright = '2016, Linus \xc3\x96stberg'
+author = 'Linus \xc3\x96stberg'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -232,7 +232,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Testproject.tex', 'Testproject Documentation',
-     'Linus Oestberg', 'manual'),
+     'Linus \xc3\x96stberg', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
