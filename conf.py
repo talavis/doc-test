@@ -56,8 +56,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Testproject'
-copyright = '2016, Linus \xc3\x96stberg'
-author = 'Linus \xc3\x96stberg'
+copyright = u'2016, Linus \xc3\x96stberg'
+author = u'Linus \xc3\x96stberg'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
